@@ -1,6 +1,6 @@
 # Snake Glitched
 
-Snake Glitched is a unique take on the classic 1997 Snake game, developed in Python for a college project. The game introduces a storyline where viruses attack the computer, and the snake(player) must consume the code to remove them from the system.
+Snake Glitched is a unique take on the classic 1997 Snake game, developed in Python for a college project. The game introduces a storyline where viruses attack the computer, and the snake(player) must consume thier code to remove them from the system.
 
 ## Installation
 
