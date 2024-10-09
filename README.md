@@ -4,12 +4,12 @@ Snake Glitched is a unique take on the classic 1997 Snake game, developed in Pyt
 
 ## Fun Things
 
-1. All music in the game was created by me!
-2. The art was kindly done by Nooby Arts!
-3. AI was used for the voice lines (cause I am no voice actor)
-4. That glitch effect took me almost two weeks (The pain!!!)
-5. Some assets were created using Canva
-6. I am so far the only person who has ever beaten the game (Proud)
+1. All **music** in the game was created by me!
+2. The art was kindly done by **Nooby Arts**!
+3. AI was used for the **voice lines** (*cause I am no voice actor*)
+4. That glitch effect took me almost **two weeks** (*The pain!!!*)
+5. Some assets were created using **Canva**
+6. I am so far **the only person** who has ever beaten the game (*Proud*)
 
 ## Installation
 
